@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.contenedor{
+    width: 95%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.contenedor p{
+    margin-bottom:  40px;
+    text-align: center;
+}
+
