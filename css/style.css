@@ -26,3 +26,12 @@ header nav{
     -o-transition: all ease .5s;
     transition: all ease .5s ;
 }
+    header nav ul{
+        list-style: none;
+        overflow: hidden;
+    }
+
+        header nav ul li{
+            float: left;
+        }
+           
